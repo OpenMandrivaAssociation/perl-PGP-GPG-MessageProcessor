@@ -14,6 +14,7 @@ Source:		%{module}-%{version}.tar.bz2
 %if %{mdkversion} < 1010
 Buildrequires:perl-devel
 %endif
+Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Buildarch:	noarch
 
 %description
