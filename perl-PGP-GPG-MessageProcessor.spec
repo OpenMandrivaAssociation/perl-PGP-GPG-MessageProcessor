@@ -1,7 +1,7 @@
 %define	module	PGP-GPG-MessageProcessor
 %define	name	perl-%{module}
 %define	version	0.4.5
-%define	release	%mkrel 13
+%define	release	%mkrel 14
 
 Name:		%{name}
 Summary:	Perl module that supplies object methods for interacting with GnuPG
