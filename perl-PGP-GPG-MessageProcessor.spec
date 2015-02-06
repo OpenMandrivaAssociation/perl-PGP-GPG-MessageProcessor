@@ -3,7 +3,7 @@
 Name:		perl-%{module}
 Summary:	Perl module that supplies object methods for interacting with GnuPG
 Version:	0.4.5
-Release:	16
+Release:	17
 License:	GPL
 Group:		Development/Perl
 URL:		http://www.cpan.org/
