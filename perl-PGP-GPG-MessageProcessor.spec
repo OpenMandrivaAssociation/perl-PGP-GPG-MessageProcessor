@@ -6,7 +6,7 @@ Version:	0.4.5
 Release:	17
 License:	GPL
 Group:		Development/Perl
-URL:		http://www.cpan.org/
+URL:		https://www.cpan.org/
 Source:		%{module}-%{version}.tar.bz2
 
 BuildRequires:	perl-devel
