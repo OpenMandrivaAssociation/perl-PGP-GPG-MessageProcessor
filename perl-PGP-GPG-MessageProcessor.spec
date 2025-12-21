@@ -9,6 +9,7 @@ Group:		Development/Perl
 URL:		https://www.cpan.org/
 Source:		%{module}-%{version}.tar.bz2
 
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildArch:	noarch
 
